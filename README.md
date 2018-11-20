@@ -6,4 +6,12 @@ A flappy-bird bot that plays the game using neural networks and genetic algorith
 <br>
 
 <img src="https://github.com/kishorliv/Flappy-Bird-Neuro-evolution/blob/master/images/screenshots/flappyOne.png">
-<img src="https://github.com/kishorliv/Flappy-Bird-Neuro-evolution/blob/master/images/screenshots/flappyOne.png">
+<img src="https://github.com/kishorliv/Flappy-Bird-Neuro-evolution/blob/master/images/screenshots/flappyTwo.png">
+
+## Usage
+Clone the source
+```
+git clone https://github.com/kishorliv/Flappy-Bird-Neuro-evolution.git
+cd FlappyBotML
+```
+Open ```index.html``` in the browser.
