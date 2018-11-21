@@ -15,7 +15,7 @@ The bot uses genetic algorithm(GA) to train the neural network(NN) which is call
 Clone the source
 ```
 git clone https://github.com/kishorliv/Flappy-Bird-Neuro-evolution.git
-cd FlappyBotML
+cd Flappy-Bird-Neuro-evolution
 ```
 Open ```index.html``` in the browser.
 
